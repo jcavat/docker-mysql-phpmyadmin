@@ -1,6 +1,8 @@
 # docker-lamp
 
-Docker example with  MySql 8.0 and PhpMyAdmin with docker-compose
+Docker example with  MySql 8.0 and PhpMyAdmin with docker-compose.
+
+I provide a fake Conference database system.
 
 ## How to run
 
