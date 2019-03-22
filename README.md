@@ -14,8 +14,6 @@ Open phpmyadmin at [http://localhost:8000](http://localhost:8000)
 
 You can use mysql inside the container :
 
-- `docker ps` to extract the mysql container hash id 
-- `docker exec -it hash_id_mysql bash`
-- `mysql -u root -p` (use your password specified in docker-compose.yml)
+- `docker-compose exec db mysql -u root -p` 
 
 Enjoy !
