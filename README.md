@@ -12,7 +12,7 @@ docker-compose up -d
 
 Open phpmyadmin at [http://localhost:8000](http://localhost:8000)
 
-You can use mysql inside the container :
+Run mysql client:
 
 - `docker-compose exec db mysql -u root -p` 
 
